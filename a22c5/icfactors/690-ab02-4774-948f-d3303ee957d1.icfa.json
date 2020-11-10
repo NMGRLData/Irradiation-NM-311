@@ -1,6 +1,6 @@
 {
     "AX": {
-        "error": 0.0001531965457296128,
+        "error": 0.00017139556017813914,
         "fit": "Bracketing Interpolate",
         "references": [
             {
@@ -55,7 +55,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.003646474223542
+        "value": 1.0037632458513779
     },
     "CDD": {
         "error": 0.0009457660338776625,
