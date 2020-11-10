@@ -1,57 +1,43 @@
 {
     "Ar36": {
-        "error": 0.00034533608300134306,
+        "error": 0.0003978393491356324,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
-        "fn": 112,
-        "include_baseline_error": false,
+        "fn": 119,
+        "include_baseline_error": true,
         "n": 120,
         "outlier_excluded": [
-            0,
-            1,
-            36,
-            105,
-            14,
-            17,
-            19,
-            52
+            0
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.020235188944388055
+        "value": 0.020716633714171994
     },
     "Ar37": {
-        "error": 0.00638455271924416,
+        "error": 0.006988556319131385,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
-        "fn": 114,
-        "include_baseline_error": false,
+        "fn": 120,
+        "include_baseline_error": true,
         "n": 120,
-        "outlier_excluded": [
-            0,
-            3,
-            100,
-            40,
-            74,
-            58
-        ],
+        "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.06030511375540268
+        "value": 0.06690812870418189
     },
     "Ar38": {
         "error": 0.005653198283401348,
@@ -59,13 +45,13 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
         "fn": 117,
-        "include_baseline_error": false,
+        "include_baseline_error": true,
         "n": 120,
         "outlier_excluded": [
             0,
@@ -77,53 +63,46 @@
         "value": 0.2819915774359111
     },
     "Ar39": {
-        "error": 0.014718570263927488,
+        "error": 0.015485432262925567,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
-        "fn": 115,
-        "include_baseline_error": false,
+        "fn": 119,
+        "include_baseline_error": true,
         "n": 120,
         "outlier_excluded": [
-            0,
-            98,
-            11,
-            114,
-            30
+            0
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 19.769020566872527
+        "value": 19.76323148223738
     },
     "Ar40": {
-        "error": 0.13944207834281427,
+        "error": 0.1488442951691257,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
-        "fn": 116,
-        "include_baseline_error": false,
+        "fn": 119,
+        "include_baseline_error": true,
         "n": 120,
         "outlier_excluded": [
-            0,
-            1,
-            52,
-            33
+            0
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 3471.3821756183634
+        "value": 3471.486993822493
     },
     "Ar41": {
         "error": 0.02542486139006617,
