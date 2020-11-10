@@ -1,36 +1,60 @@
 {
     "AX": {
-        "error": 0.009493064320069826,
+        "error": 0.009493064451090442,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "average",
-        "value": 0.2755428727932559
+        "fit": "Average",
+        "fn": 30,
+        "include_baseline_error": false,
+        "n": 30,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.27554287513097125
     },
     "CDD": {
-        "error": 4.6955460549815e-05,
+        "error": 4.6955461454808894e-05,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 10
+            "std_devs": 10,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "average",
-        "value": 0.00041220149818232114
+        "fit": "Average",
+        "fn": 30,
+        "include_baseline_error": false,
+        "n": 30,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.00041220149675306555
     },
     "H1": {
-        "error": 0.008939820356505883,
+        "error": 0.00893982031875728,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "average",
-        "value": 0.1774899631457331
+        "fit": "Average",
+        "fn": 30,
+        "include_baseline_error": false,
+        "n": 30,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.1774899621804555
     },
     "H2": {
         "error": 0.05301628500745842,
@@ -44,25 +68,46 @@
         "value": -0.6377444348584917
     },
     "L1": {
-        "error": 0.00405415537204371,
+        "error": 0.004054155317187985,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "average",
-        "value": 0.027093659712729336
+        "fit": "Average",
+        "fn": 28,
+        "include_baseline_error": false,
+        "n": 30,
+        "outlier_excluded": [
+            1,
+            15
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.02709365951782924
     },
     "L2": {
-        "error": 0.004801882299415772,
+        "error": 0.004801882166741928,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "average",
-        "value": -0.046589755219493795
+        "fit": "Average",
+        "fn": 29,
+        "include_baseline_error": false,
+        "n": 30,
+        "outlier_excluded": [
+            14
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": -0.04658975480284927
     }
 }
