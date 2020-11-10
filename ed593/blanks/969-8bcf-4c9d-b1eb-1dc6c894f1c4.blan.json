@@ -74,9 +74,9 @@
         "value": 0.003344643286646922
     },
     "Ar37": {
-        "error": 0.0038376022522073265,
+        "error": 0.003614682371236432,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -145,12 +145,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0280352702223386
+        "value": 0.026276114075909338
     },
     "Ar38": {
-        "error": 0.003597869941774995,
+        "error": 0.005238879299397877,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -219,12 +219,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.011094385830121789
+        "value": 0.009448960842545791
     },
     "Ar39": {
-        "error": 0.008508649201258834,
+        "error": 0.012903204212919479,
         "error_type": "",
-        "fit": "Bracketing Interpolate",
+        "fit": "Weighted Mean_SD",
         "references": [
             {
                 "exclude": "ok",
@@ -293,7 +293,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.037564672463147
+        "value": 0.047704739763242535
     },
     "Ar40": {
         "error": 0.019268889736810752,
