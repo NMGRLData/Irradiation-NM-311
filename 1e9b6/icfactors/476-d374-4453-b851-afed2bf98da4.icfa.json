@@ -1,9 +1,61 @@
 {
     "AX": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0001251045864965262,
+        "fit": "Bracketing Interpolate",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2527",
+                "uuid": "dcd95ae4-1147-470b-a3ca-d863710df9b5"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2528",
+                "uuid": "02a9f071-727c-489b-80fc-1539685276eb"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2529",
+                "uuid": "786c4d51-b4a4-4547-8d9b-ca31a33fc612"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2530",
+                "uuid": "33178961-b2cb-4b37-8020-8f3ceff33083"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2531",
+                "uuid": "a0312e00-2865-4953-8d06-ea178f7ae57d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2532",
+                "uuid": "fc2ed90b-637c-4539-92e7-bc1f9d75c7a7"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2533",
+                "uuid": "a26a689f-c397-4026-94f9-ea58b8c9349b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2534",
+                "uuid": "c05f156c-37c1-4da8-be05-2d09fdb83653"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2535",
+                "uuid": "cf50bbba-1002-40c5-810a-c0639ac8bb49"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-2536",
+                "uuid": "608ad524-a61e-424e-bf6d-f5b15c8318f0"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0038636988014413
     },
     "CDD": {
         "error": 0.000641182384930883,
