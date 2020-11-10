@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00011022001062782948,
+        "error": 0.00012019555452128449,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -71,7 +71,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.00284873065282621
+        "value": 0.002846495103385483
     },
     "Ar37": {
         "error": 0.0038679374132003816,
@@ -296,7 +296,7 @@
         "value": 0.05518394544258057
     },
     "Ar40": {
-        "error": 0.014217835480967882,
+        "error": 0.016599269038726844,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -367,7 +367,7 @@
             }
         ],
         "reviewed": true,
-        "value": 0.6966584356611609
+        "value": 0.6866257303323967
     },
     "Ar41": {
         "error": 0.04718608075219102,
