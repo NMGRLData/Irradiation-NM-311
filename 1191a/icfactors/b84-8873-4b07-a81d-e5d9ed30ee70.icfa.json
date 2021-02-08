@@ -58,52 +58,12 @@
         "value": 1.0040478271885542
     },
     "CDD": {
-        "error": 0.0009457660338776625,
-        "fit": "Weighted Mean",
-        "references": [
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-3081",
-                "uuid": "6dc09df4-2147-4479-a617-57a7e035e75e"
-            },
-            {
-                "exclude": "omit",
-                "record_id": "a-02-J-3082",
-                "uuid": "89b491ff-75ae-4269-8490-b0267ad6376c"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-3083",
-                "uuid": "02c8a54d-72d0-4afa-823b-00f92493ca07"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-3084",
-                "uuid": "506c1da1-d192-4f36-b791-b9a2c363a1db"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-3085",
-                "uuid": "a495c466-94c7-4a73-942b-31d5ee0de477"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-3086",
-                "uuid": "0347c881-953e-4a04-a665-d31057b4ecf5"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-3087",
-                "uuid": "cde8a7ff-96c4-4b5f-b71c-c4d37cbd1558"
-            },
-            {
-                "exclude": "omit",
-                "record_id": "a-02-J-3088",
-                "uuid": "6c7325ed-089a-46f5-9fb8-7e16cbfa2967"
-            }
-        ],
+        "error": 0.0009393649101289136,
+        "fit": "bulk_edit",
+        "references": "",
         "reviewed": true,
-        "value": 1.0057400170931523
+        "scalar": 0.9932318104906938,
+        "value": 0.998932978060373
     },
     "H1": {
         "error": 1e-20,
